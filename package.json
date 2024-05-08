@@ -1,6 +1,6 @@
 {
   "name": "@dramaorg/totam-adipisci-commodi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -36,7 +36,14 @@
     "@dramaorg/vitae-quasi-ea": "^1.1.4",
     "@dramaorg/voluptate-exercitationem-qui": "^1.1.4",
     "@dramaorg/voluptate-voluptatum-blanditiis": "^1.0.5",
-    "@dramaorg/voluptates-tempore-esse": "^1.0.5"
+    "@dramaorg/voluptates-tempore-esse": "^1.0.5",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "app",
